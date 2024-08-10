@@ -1,4 +1,4 @@
-#rock_paper_scissor_game by CodiTounsi
+#rock_paper_scissor_game
 import random
 import tkinter as tk
 from tkinter import *
